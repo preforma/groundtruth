@@ -1,27 +1,5 @@
 # Classes
-## Annotation
-
-1. FileAttachment [https://github.com/preforma/groundtruth/tree/master/pdfa/1#annotation-fileattachment]
-2. Annotation FileAttachment
-3. Annotation FileAttachment non-PDF/A
-4. Annotation Sound
-5. Annotation Movie
-6. Annotation Screen
-7. Annotation 3D
-8. Encoding LZW
-9. Encoding Crypt
-10. Encoding Crypt
-11. Image Encoding Interpolation
-12. Image Alternative/Proxy
-13. Document Optional content
-14. Transitions
-15. Transparency
-16. Import/Link to External Resource
-17. Document Attachment
-18. Document non-PDF/A Attachment
-19. Executable PostScript
-20. Form Action
-21. XFA Forms
+## Action
 22. Action Launch
 23. Action Sound
 24. Action Movie
@@ -35,24 +13,32 @@
 21. Action Trans
 22. Action GoTo3DView
 23. Named Action
-24. Encryption
-25. Permission
-26. .notdef
+## Annotation
+[1/](1/README.md) FileAttachment any
+
+[2/](2/README.md) FileAttachment non-PDF/A
+
+[3/](3/README.md) Sound
+
+[4/](4/README.md) Movie
+
+[5/](5/README.md) Screen
+
+[6/](6/README.md) 3D
+## Conformance
+51/ Conformance Level B
+52/ Conformance Level U
+53/ Conformance Level A
+## Encoding 
+8. Encoding LZW
+9. Encoding Crypt
+## File
 27. File header
 28. File header
 29. Keyword spacings
-30. Color space 
-31. Device dependent
-32. Logical structure
-33. RoleMap
-34. Hierarchy
-35. Structure type
-36. Metadata (DocumentInfo)
-37. XMP metadata
-37. XMP Undefined properties
-38. XMP version identifier
-39. XMP <pdfaid:part>[1-3]
-40. XMP <pdfaid:conformance>[bua]
+50. Data after EOF
+## Font
+26. .notdef
 41. CMaps Embed composite fonts
 42. CMaps Embed non-predefined
 43. Fonts Embed
@@ -62,10 +48,35 @@
 47. Unicode Character map
 48. Font metric
 49. Character encoding symbolic TrueType fonts
-50. Data after EOF
-51. Conformance Level B
-52. Conformance Level U
-53. Conformance Level A
+## Form
+20. Form Action
+21. XFA Forms
+## Image
+11. Image Encoding Interpolation
+12. Image Alternative/Proxy
+## XMP
+37. XMP metadata
+37. XMP Undefined properties
+38. XMP version identifier
+39. XMP <pdfaid:part>[1-3]
+40. XMP <pdfaid:conformance>[bua]
+
+13. Document Optional content
+14. Transitions
+15. Transparency
+16. Import/Link to External Resource
+17. Document any Attachment
+18. Document non-PDF/A Attachment
+19. Executable PostScript
+24. Encryption
+25. Permission
+30. Color space 
+31. Device dependent
+32. Logical structure
+33. RoleMap
+34. Hierarchy
+35. Structure type
+36. Metadata (DocumentInfo)
 # Policy
 1. Specified font
 2. Unspecified font
