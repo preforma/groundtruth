@@ -1,36 +1,36 @@
 # Classes
 ## Action
-[21/](21/README.md) Action Launch
+[21/](21/README.md) Launch
 
-[22/](22/README.md) Action Sound
+[22/](22/README.md) Sound
 
-[23/](23/README.md) Action Movie
+[23/](23/README.md) Movie
 
-[24/](24/README.md) Action Hide
+[24/](24/README.md) Hide
 
-[25/](25/README.md) Action ResetForm
+[25/](25/README.md) ResetForm
 
-[26/](26/README.md) Action ImportData
+[26/](26/README.md) ImportData
 
-[27/](27/README.md) Action Javascript
+[27/](27/README.md) Javascript
 
-[28/](28/README.md) Action Set-state
+[28/](28/README.md) Set-state
 
-[29/](29/README.md) Action No-op
+[29/](29/README.md) No-op
 
-[30/](30/README.md) Action SetOCGState
+[30/](30/README.md) SetOCGState
 
-[31/](31/README.md) Action Rendition
+[31/](31/README.md) Rendition
 
-[32/](32/README.md) Action Trans
+[32/](32/README.md) Trans
 
-[33/](33/README.md) Action GoTo3DView
+[33/](33/README.md) GoTo3DView
 
-[34/](34/README.md) Named Action
+[34/](34/README.md) Named
 ## Annotation
-[1/](1/README.md) FileAttachment any
+[1/](1/README.md) Attachment any
 
-[2/](2/README.md) FileAttachment non-PDF/A
+[2/](2/README.md) Attachment non-PDF/A
 
 [3/](3/README.md) Sound
 
