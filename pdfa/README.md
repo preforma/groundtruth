@@ -1,7 +1,7 @@
 # Classes
 ## Annotation
 
-1. FileAttachment [https://github.com/preforma/groundtruth/tree/master/pdf/1#annotation-fileattachment]
+1. FileAttachment [https://github.com/preforma/groundtruth/tree/master/pdfa/1#annotation-fileattachment]
 2. Annotation FileAttachment
 3. Annotation FileAttachment non-PDF/A
 4. Annotation Sound
