@@ -8,7 +8,7 @@ About the PREFORMA Ground Truth for Matroska (FFV1, LPCM).
 
 ## PDF/A
 
-About the PREFORMA Ground Truth for PDF/A [https://github.com/preforma/groundtruth/tree/master/pdfa/README.md].
+[About the PREFORMA Ground Truth for PDF/A](pdfa/README.md).
 
 ## TIFF (baseline, EP, IT)
 
