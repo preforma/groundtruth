@@ -1,4 +1,4 @@
-# Classes
+# Class
 ## Action
 [33/](33/README.md) GoTo3DView
 
