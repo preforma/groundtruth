@@ -1,6 +1,6 @@
 # Annotation Movie
 The PDF/A document _has_ an annotation using movie.
-# Reproduce class
+# Reproducibility
 ## Acrobat Professional 10
 Use Multimedia tool to import SWF video
 
