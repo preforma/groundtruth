@@ -39,13 +39,19 @@
 [5/](5/README.md) Screen
 
 [6/](6/README.md) 3D
+## Attachment
+[16/](16/README.md) Document any Attachment
+
+[17/](16/README.md) Document non-PDF/A Attachment
 ## Conformance
 [63/](63/README.md) Conformance Level B
 
 [64/](64/README.md) Conformance Level U
 
 [65/](65/README.md) Conformance Level A
-
+## Color
+30. Color space 
+31. Device dependent
 ## Encoding 
 8. Encoding LZW
 9. Encoding Crypt
@@ -71,29 +77,26 @@
 ## Image
 11. Image Encoding Interpolation
 12. Image Alternative/Proxy
-## XMP
+## Metadata
+36. Metadata (DocumentInfo)
 37. XMP metadata
 37. XMP Undefined properties
 38. XMP version identifier
 39. XMP <pdfaid:part>[1-3]
 40. XMP <pdfaid:conformance>[bua]
-
+## Miscellaneous
 13. Document Optional content
 14. Transitions
 15. Transparency
 16. Import/Link to External Resource
-17. Document any Attachment
-18. Document non-PDF/A Attachment
 19. Executable PostScript
 24. Encryption
 25. Permission
-30. Color space 
-31. Device dependent
+## Logical structure
 32. Logical structure
 33. RoleMap
 34. Hierarchy
 35. Structure type
-36. Metadata (DocumentInfo)
 # Policy
 1. Specified font
 2. Unspecified font
