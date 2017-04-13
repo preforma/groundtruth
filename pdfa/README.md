@@ -1,55 +1,55 @@
 # Class
 ## Action
-[33/](33/README.md) GoTo3DView
+[33/](33.md) GoTo3DView
 
-[24/](24/README.md) Hide
+[24/](24.md) Hide
 
-[26/](26/README.md) ImportData
+[26/](26.md) ImportData
 
-[27/](27/README.md) Javascript
+[27/](27.md) Javascript
 
-[34/](34/README.md) Named
+[34/](34.md) Named
 
-[21/](21/README.md) Launch
+[21/](21.md) Launch
 
-[23/](23/README.md) Movie
+[23/](23.md) Movie
 
-[29/](29/README.md) No-op
+[29/](29.md) No-op
 
-[31/](31/README.md) Rendition
+[31/](31.md) Rendition
 
-[25/](25/README.md) ResetForm
+[25/](25.md) ResetForm
 
-[28/](28/README.md) Set-state
+[28/](28.md) Set-state
 
-[30/](30/README.md) SetOCGState
+[30/](30.md) SetOCGState
 
-[22/](22/README.md) Sound
+[22/](22.md) Sound
 
-[32/](32/README.md) Trans
+[32/](32.md) Trans
 
 ## Annotation
-[6/](6/README.md) 3D
+[6/](6.md) 3D
 
-[1/](1/README.md) Attachment any
+[1/](1.md) Attachment any
 
-[2/](2/README.md) Attachment non-PDF/A
+[2/](2.md) Attachment non-PDF/A
 
-[4/](4/README.md) Movie
+[4/](4.md) Movie
 
-[5/](5/README.md) Screen
+[5/](5.md) Screen
 
-[3/](3/README.md) Sound
+[3/](3.md) Sound
 ## Attachment
-[16/](16/README.md) Document any Attachment
+[16/](16.md) Document any Attachment
 
-[17/](16/README.md) Document non-PDF/A Attachment
+[17/](17.md) Document non-PDF/A Attachment
 ## Conformance
-[65/](65/README.md) Conformance Level A
+[65/](65.md) Conformance Level A
 
-[63/](63/README.md) Conformance Level B
+[63/](63.md) Conformance Level B
 
-[64/](64/README.md) Conformance Level U
+[64/](64.md) Conformance Level U
 ## Color
 30. Color space 
 31. Device dependent
