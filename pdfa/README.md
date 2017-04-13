@@ -54,10 +54,14 @@
 [41](41.md) Color space 
 
 [42](42.md) Device dependent
-## Encoding 
+## Compression
+[8](8.md) LZW
+## Encryption
 [9](9.md) Crypt
 
-[8](8.md) LZW
+[35](35.md) Encryption
+
+[36](36.md) Permission
 ## File
 [38](38.md) File header
 
@@ -94,6 +98,12 @@
 [10](10.md) Image Encoding Interpolation
 
 [11](11.md) Image Alternative/Proxy
+## Interactive / Reactive
+[12](12.md) Document Optional content
+
+[18](18.md) Executable PostScript
+
+[13](13.md) Transitions
 ## Metadata
 [47](47.md) Metadata (DocumentInfo)
 
@@ -107,19 +117,9 @@
 
 [52](52.md) XMP <pdfaid:conformance>[bua]
 ## Miscellaneous
-[12](12.md) Document Optional content
-
-[13](13.md) Transitions
-
 [14](14.md) Transparency
 
 [15](15.md) Import/Link to External Resource
-
-[18](18.md) Executable PostScript
-
-[35](35.md) Encryption
-
-[36](36.md) Permission
 ## Logical structure
 [43](43.md) Logical structure
 
@@ -129,20 +129,6 @@
 
 [46](46.md) Structure type
 # Policy
-10. Embedded audio/video
-11. Presence of Javascript
-12. Encryption
-13. Metadata property (title)
-14. Each page is a single image
-15. Each page is a single bitonal image
-16. Each page is a single colour image
-17. Specified document structure tree
-18. Specified language
-19. Unspecified languages
-20. Specified PDF producer
-21. Specified PDF version (1.5, 1.5, 1.6, 1.7)
-22. Digital signature should be present
-23. Outline / bookmarks present
 ## Attachment
 [72](72.md) Attached document is XML
 ## Conformance level
@@ -151,11 +137,24 @@
 [63](63.md) Level B
 
 [64](64.md) Level U
+## Content
+[75](75.md) Embedded audio/video
+
+[79](79.md) Each page is a single image
+
+[80](80.md) Each page is a single bitonal image
+
+[81](81.md) Each page is a single colour image
 ## Compression
 [71](71.md) LZW
 
+## Encryption
+[87](87.md) Digital signature should be present
+
+[77](77.md) Encrypt
+
 ## Font
-[9](9.md) Copytight-protected
+[74](74.md) Copyright-protected
 
 [66](66.md) Specified
 
@@ -166,7 +165,23 @@
 [68](68.md) JPG (Codec)
 
 [69](69.md) JPX (Codec)
+## Interactive / Reactive
+[76](76.md) Presence of Javascript
 ## Metadata
 [73](73.md) Metadata property (author)
 
+[78](78.md) Metadata property (title)
+
+[85](85.md) Specified PDF producer
+
+[86](86.md) Specified PDF version (1.5, 1.5, 1.6, 1.7)
+
+## Logical structure
+[88](88.md) Outline / bookmarks present
+
+[81](82.md) Specified document structure tree
+
+[83](83.md) Specified language
+
+[84](84.md) Unspecified languages
 
