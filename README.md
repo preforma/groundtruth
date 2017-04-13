@@ -2,7 +2,7 @@
 
 About the PREFORMA Ground Truth.
 
-Contains instructiorns for creating the PREFORMA Ground Truth Classes.
+Contains description of and instructions for creating the PREFORMA Ground Truth Classes.
 
 ## Matroska (FFV1, LPCM)
 
