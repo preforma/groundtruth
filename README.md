@@ -6,12 +6,12 @@ Contains description of and instructions for creating the PREFORMA Ground Truth 
 
 ## Matroska (FFV1, LPCM)
 
-[The PREFORMA Ground Truth Classes for Matroska (FFV1, LPCM)](matroska/README.md).
+[The PREFORMA Ground Truth Classes for Matroska (FFV1, LPCM)](matroska/).
 
 ## PDF/A
 
-[About the PREFORMA Ground Truth for PDF/A](pdfa/README.md).
+[About the PREFORMA Ground Truth for PDF/A](pdfa/).
 
 ## TIFF (baseline, EP, IT)
 
-[The PREFORMA Ground Truth Classes for TIFF](tiff/README.md).
+[The PREFORMA Ground Truth Classes for TIFF](tiff/).
