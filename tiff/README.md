@@ -3,7 +3,7 @@
 
 [2](2.md) Tag cardinality - TIFF using a Tag with incorrect cardinality (Other cardinality than specified in Baseline 6.0)
 
-[3](3.md) "Incorrect tag type - TIFF with a Tag with incorrect type but still readable (TIFF readers should accept BYTE, SHORT, or LONG values for any unsigned integer field."
+[3](3.md) Incorrect tag type - TIFF with a Tag with incorrect type but still readable (TIFF readers should accept BYTE, SHORT, or LONG values for any unsigned integer field.
 
 [4](4.md) Incompatible tag type - TIFF using a Tag with incorrect and incompatible type (Other type than specified in Baseline 6.0)
 
