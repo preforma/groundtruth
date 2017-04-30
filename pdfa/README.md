@@ -55,8 +55,10 @@
 
 [42](42.md) Device dependent
 ## Compression
-[8](8.md) LZW
+[7](7.md) LZW
 ## Encryption
+[8](9.md) Crypt with non-Identity
+
 [9](9.md) Crypt
 
 [35](35.md) Encryption
