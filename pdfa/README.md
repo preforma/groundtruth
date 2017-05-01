@@ -132,12 +132,6 @@
 # Policy
 ## Attachment
 [72](72.md) XML
-## Conformance level
-[65](65.md) Level A
-
-[63](63.md) Level B
-
-[64](64.md) Level U
 ## Content
 [75](75.md) Audio/video (embedded)
 
