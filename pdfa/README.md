@@ -53,6 +53,14 @@
 [41](41.md) Color space
 
 [42](42.md) Device dependent
+## Document interchange
+[43](43.md) Logical structure
+
+[44](44.md) RoleMap
+
+[45](45.md) Hierarchy
+
+[46](46.md) Structure type
 ## File
 [38](38.md) File header (PDF/A-1)
 
@@ -121,14 +129,6 @@
 [15](15.md) Import/Link to external resource
 
 [14](14.md) Transparency
-## Document interchange
-[43](43.md) Logical structure
-
-[44](44.md) RoleMap
-
-[45](45.md) Hierarchy
-
-[46](46.md) Structure type
 # Policy
 ## Attachment
 [72](72.md) XML
@@ -150,6 +150,14 @@
 [80](80.md) Image (bitonal)
 
 [81](81.md) Image (colour)
+## Document interchange
+[88](88.md) Outline / bookmarks present
+
+[82](82.md) Specified document structure tree
+
+[83](83.md) Specified language
+
+[84](84.md) Unspecified languages
 ## Font
 [74](74.md) Copyright protected font
 
@@ -174,13 +182,3 @@
 [85](85.md) Specified PDF producer
 
 [86](86.md) Specified PDF version (1.5, 1.5, 1.6, 1.7)
-
-## Logical structure
-[88](88.md) Outline / bookmarks present
-
-[82](82.md) Specified document structure tree
-
-[83](83.md) Specified language
-
-[84](84.md) Unspecified languages
-
