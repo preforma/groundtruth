@@ -27,13 +27,12 @@
 [22](22.md) Sound
 
 [32](32.md) Trans
-
 ## Annotation
 [6](6.md) 3D
 
-[1](1.md) Attachment any
+[1](1.md) Attachment (any)
 
-[2](2.md) Attachment non-PDF/A
+[2](2.md) Attachment (non-PDF/A)
 
 [4](4.md) Movie
 
@@ -41,77 +40,73 @@
 
 [3](3.md) Sound
 ## Attachment
-[16](16.md) Document Attachment (any)
+[16](16.md) File (any)
 
-[17](17.md) Document non-PDF/A Attachment
+[17](17.md) File (non-PDF/A)
 ## Conformance
-[65](65.md) Conformance Level A
+[63](63.md) Conformance level B
 
-[63](63.md) Conformance Level B
+[64](64.md) Conformance level U
 
-[64](64.md) Conformance Level U
+[65](65.md) Conformance level A
 ## Color
-[41](41.md) Color space 
+[41](41.md) Color space
 
 [42](42.md) Device dependent
-## Compression
-[7](7.md) LZW
-## Encryption
-[8](9.md) Crypt with non-Identity
-
-[9](9.md) Crypt
-
-[35](35.md) Encryption
-
-[36](36.md) Permission
 ## File
-[38](38.md) File header
+[38](38.md) File header (PDF/A-1)
 
-[39](39.md) File header
+[39](39.md) File header (PDF/A-2 -3)
 
 [40](40.md) Keyword spacings
 
 [62](62.md) Data after EOF
+## Filter
+[8](9.md) Crypt (non-Identity)
+
+[9](9.md) Crypt
+
+[7](7.md) LZW
 ## Font
 [37](37.md) .notdef
 
-[53](53.md) CMaps Embed composite fonts
-
-[54](54.md) CMaps Embed non-predefined
-
-[55](55.md) Fonts Embed
-
-[56](56.md) Fonts Embed Text rendering mode 3
-
-[57](57.md) Fonts Embed fonts Type 3
+[61](61.md) Character encoding symbolic TrueType fonts
 
 [58](58.md) Character identification of font subsets
 
-[59](59.md) Unicode Character map
+[53](53.md) CMap (embed composite fonts)
 
-[60](60.md) Font metric
+[54](54.md) CMap (embed non-predefined)
 
-[61](61.md) Character encoding symbolic TrueType fonts
+[55](55.md) Font (embed)
+
+[56](56.md) Font (embed text rendering mode 3)
+
+[57](57.md) Font (embed fonts Type 3)
+
+[60](60.md) Font (metric)
+
+[59](59.md) Unicode character map
 ## Form
-[19](19.md) Form Action
+[19](19.md) Form action
 
-[20](20.md) XFA Forms
+[20](20.md) XFA forms
 ## Image
-[10](10.md) Image Encoding Interpolation
+[10](10.md) Interpolation
 
-[11](11.md) Image Alternative/Proxy
+[11](11.md) Alternative/Proxy
 ## Interactive / Reactive
-[12](12.md) Document Optional content
+[12](12.md) Optional content
 
-[18](18.md) Executable PostScript
+[18](18.md) PostScript
 
 [13](13.md) Transitions
 ## Metadata
-[47](47.md) Metadata (DocumentInfo)
+[47](47.md) DocumentInfo
 
-[48](48.md) XMP Key
+[48](48.md) XMP key
 
-[49](49.md) XMP Undefined properties
+[49](49.md) XMP undefined properties
 
 [50](50.md) XMP PDF/A version identifier
 
@@ -119,10 +114,14 @@
 
 [52](52.md) XMP <pdfaid:conformance>[bua]
 ## Miscellaneous
-[14](14.md) Transparency
+[35](35.md) Encryption
 
-[15](15.md) Import/Link to External Resource
-## Logical structure
+[36](36.md) Permission
+
+[15](15.md) Import/Link to external resource
+
+[14](14.md) Transparency
+## Document interchange
 [43](43.md) Logical structure
 
 [44](44.md) RoleMap
@@ -132,7 +131,7 @@
 [46](46.md) Structure type
 # Policy
 ## Attachment
-[72](72.md) Attached document is XML
+[72](72.md) XML
 ## Conformance level
 [65](65.md) Level A
 
@@ -140,35 +139,33 @@
 
 [64](64.md) Level U
 ## Content
-[75](75.md) Embedded audio/video
+[75](75.md) Audio/video
 
-[79](79.md) Each page is a single image
-
-[80](80.md) Each page is a single bitonal image
-
-[81](81.md) Each page is a single colour image
-## Compression
-[71](71.md) LZW
-
-## Encryption
-[87](87.md) Digital signature should be present
+[87](87.md) Digital signature
 
 [77](77.md) Encrypt
 
+[79](79.md) Image (any)
+
+[80](80.md) Image (bitonal)
+
+[81](81.md) Image (colour)
 ## Font
-[74](74.md) Copyright-protected
+[74](74.md) Copyright protected font
 
 [66](66.md) Specified
 
 [67](67.md) Unspecified
-## Image
-[70](70.md) CCITT (Codec)
+## Filter
+[70](70.md) CCITT
 
-[68](68.md) JPG (Codec)
+[68](68.md) JPG
 
-[69](69.md) JPX (Codec)
+[69](69.md) JPX
+
+[71](71.md) LZW
 ## Interactive / Reactive
-[76](76.md) Presence of Javascript
+[76](76.md) Javascript
 ## Metadata
 [73](73.md) Metadata property (author)
 
@@ -181,7 +178,7 @@
 ## Logical structure
 [88](88.md) Outline / bookmarks present
 
-[81](82.md) Specified document structure tree
+[82](82.md) Specified document structure tree
 
 [83](83.md) Specified language
 
