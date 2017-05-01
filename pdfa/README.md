@@ -84,13 +84,13 @@
 
 [53](53.md) CMap (embed composite fonts)
 
-[54](54.md) CMap (embed non-predefined)
+[54](54.md) CMap (embed non-predefined fonts)
 
 [55](55.md) Font (embed)
 
-[56](56.md) Font (embed text rendering mode 3)
+[56](56.md) Font (embed fonts with text rendering mode 3)
 
-[57](57.md) Font (embed fonts Type 3)
+[57](57.md) Font (embed Type 3 fonts)
 
 [60](60.md) Font (metric)
 
@@ -118,9 +118,9 @@
 
 [50](50.md) XMP PDF/A version identifier
 
-[51](51.md) XMP <pdfaid:part>[1-3]
+[51](51.md) XMP <pdfaid:part> (1-3)
 
-[52](52.md) XMP <pdfaid:conformance>[bua]
+[52](52.md) XMP <pdfaid:conformance> (bua)
 ## Miscellaneous
 [35](35.md) Encryption
 
@@ -139,7 +139,7 @@
 
 [64](64.md) Level U
 ## Content
-[75](75.md) Audio/video
+[75](75.md) Audio/video (embedded)
 
 [87](87.md) Digital signature
 
@@ -157,7 +157,7 @@
 
 [83](83.md) Specified language
 
-[84](84.md) Unspecified languages
+[84](84.md) Unspecified language
 ## Font
 [74](74.md) Copyright protected font
 
@@ -175,9 +175,9 @@
 ## Interactive / Reactive
 [76](76.md) Javascript
 ## Metadata
-[73](73.md) Metadata property (author)
+[73](73.md) XMP (author)
 
-[78](78.md) Metadata property (title)
+[78](78.md) XMP (title)
 
 [85](85.md) Specified PDF producer
 
