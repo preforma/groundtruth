@@ -70,9 +70,9 @@
 
 [62](62.md) Data after EOF
 ## Filter
-[8](9.md) Crypt (non-Identity)
+[8](8.md) Crypt
 
-[9](9.md) Crypt
+[9](9.md) Crypt (non-Identity)
 
 [7](7.md) LZW
 ## Font
