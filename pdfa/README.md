@@ -26,7 +26,7 @@
 
 [22](22.md) Sound
 
-[32](32.md) Trans
+[32](32.md) Transition
 ## Annotation
 [6](6.md) 3D
 
