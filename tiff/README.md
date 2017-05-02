@@ -75,7 +75,7 @@
 
 [38](38.md) TiffEP StardardID - Incorrect Tiff EP with tag TIFF/EPStandardID
 
-[39](49.md) TiffIT - Incorrect Tiff IT
+[39](39.md) TiffIT - Incorrect Tiff IT
 
 [40](40.md) Lossy compression - TIFF file using lossy compression
 
