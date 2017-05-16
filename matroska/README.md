@@ -27,7 +27,7 @@
 
 [14](14.md) MKV-KNOWN-ELEM - Element ID Registered
 
-[15](15.md) EBML-ELEM-SIZE-7F - Element Size 0x7F Reservation
+[15](15.md) EBML-ELEM-UNKNOWN-SIZE - Element Size 0x7F Reservation
 
 [16](16.md) EBML-ELEM-SIZE-CAP - Element Size Byte Length Limit
 
@@ -131,8 +131,13 @@
 
 [66](66.md) COLOUR-PRIMARY-CLARITY - Video Colour Primary is clarified?
 
-[67](67.md) FFV1-3+ - FFV1 is version 3 or greater
+[67](67.md) FFV1-VALID-VERSION - FFV1 is a valid, non-experimental version
 
 [68](68.md) FFV1-3.4+ - If version 3, FFV1 is subversion 4 or greater
 
-[69](69.md) NO-JUNK-IN-MATROSKA - No junk data within Matroska
+[69](69.md) NO-JUNK-IN-FIXEDSIZE_MATROSKA - No junk data within Matroska Elements unless they allow unknown size
+
+# Reproducibility
+
+When feasible, classes document a programmatic method to generate a test file that should trigger the associated implementation check. These methods require ffmpeg 3.3, xmlstarlet, mkvparse, and/or sfk to perform.
+
