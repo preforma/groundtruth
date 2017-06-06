@@ -1,4 +1,29 @@
 # Class
+## Invalid
+_Invalid classes cannot be tested_.
+
+[89](89.md) Artifacts
+
+[90](90.md) Breaks/Boundaries
+
+[91](91.md) ActualText
+
+[92](92.md) Embed font subsets Type 0 (OCF)
+
+[93](93.md) Embed font subsets Type 1 (Includes Standard 14 Fonts)
+
+[94](94.md) Embed font subsets MM
+
+[95](95.md) Embed font subsets TrueType
+
+[96](96.md) Character encoding non-symbolic TrueType fonts
+
+[97](97.md) Non-symbolic TrueType fonts Differences
+
+[98](98.md) Non-symbolic TrueType fonts Differences Unicode compliant
+
+[99](99.md) Character encoding symbolic TrueType fonts
+
 ## Action
 [33](33.md) GoTo3DView
 
