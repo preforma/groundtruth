@@ -1,4 +1,6 @@
 # Class
+[0](0.md) Correct - Some correct files.
+
 [1](1.md) EBML-ELEM-START - The First Element must be the EBML Header.
 
 [2](2.md) EBML-VER-COH - EBMLVersion must be greater than or equal to EBMLReadVersion
