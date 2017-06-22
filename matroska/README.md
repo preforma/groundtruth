@@ -87,9 +87,9 @@
 
 [43](43.md) FFV1-HEADER-FFV1-HEADER-quant_table_count - quant_table_count coherency.
 
-[44](44.md) FFV1-HEADER-v_chroma_subsample-int - (Deprecated).
+[44](44.md) FFV1-HEADER-QuantizationTable-len - Quantization table len coherency.
 
-[45](45.md) FFV1-HEADER-QUANTIZATION_TABLES - Quantization tables coherency.
+[45](45.md) FFV1-HEADER-QuantizationTable-scale - Quantization table scale coherency.
 
 [46](46.md) FFV1-HEADER-initial_state_delta - initial_state_delta coherency.
 
