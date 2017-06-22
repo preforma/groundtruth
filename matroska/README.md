@@ -63,7 +63,7 @@
 
 [31](31.md) MKV-VALID-BOOLEANS - Matroska boolean elements validity (Deprecated).
 
-[32](32.md) MKV-NUMERICAL-TAGS - Matroska tags defined as numerical should be.
+[32](32.md) MKV-NUMERICAL-TAG - Matroska tag defined as numerical should be.
 
 [33](33.md) FFV1-HEADER-version-OUTOFBAND - Version 3 must have out of band data.
 
