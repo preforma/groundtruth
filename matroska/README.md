@@ -7,7 +7,7 @@
 
 [3](3.md) EBML-DOCVER-COH - DocTypeVersion validity.
 
-[4](4.md) EBML-ELEMENT-VALID-PARENT - All elements must have valid parents.
+[4](4.md) MKV-ELEMENT-VALID-PARENT - All elements must have valid parents.
 
 [5](5.md) EBML-ELEMENT-NONMULTIPLES - Elements must follow maxOccurs.
 
@@ -51,7 +51,7 @@
 
 [25](25.md) EBML-MAXVER-COHERANT - EBML elements used correlate to DocVersion.
 
-[26](26.md) EBML-DOCTYPEREADVERSION-COHERANT - EBML elements used correlate to DocTypeReadVersion.
+[26](26.md) MKV-DOCTYPEREADVERSION-COHERANT - EBML elements used correlate to DocTypeReadVersion.
 
 [27](27.md) MKV-SEGMENT-UID-LENGTH - Matroska segment element must use a valid length (Deprecated).
 
