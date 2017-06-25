@@ -137,7 +137,7 @@
 
 [68](68.md) FFV1-FRAME-key_frame-ISNOTINTRA - key_frame coherency.
 
-[69](69.md) EBML-NO-JUNK-IN-FIXEDSIZE - No junk bytes if the size of an element is fixed.
+[69](69.md) EBML-NO-JUNK-IN-FIXEDSIZE-ELEMENT - No junk bytes if the size of an element is fixed.
 
 # Reproducibility
 
