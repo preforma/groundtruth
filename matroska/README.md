@@ -21,7 +21,7 @@
 
 [10](10.md) EBML-ELEMENTS-WITHIN-MAXIDLENGTH - Elements in element ID length range (Deprecated).
 
-[11](11.md) EBML-HEADER-ELEMENTS-WITHIN-MAXIDLENGTH - Header Elements in element data size length range.
+[11](11.md) EBML-HEADER-ELEMENTS-WITHIN-MAXSIZELENGTH - Header Elements in element data size length range.
 
 [12](12.md) EBML-ELEMENTS-WITHIN-MAXSIZELENGTH - Elements in element data size length range.
 
