@@ -7,7 +7,7 @@
 
 [3](3.md) EBML-DOCVER-COH - DocTypeVersion validity.
 
-[4](4.md) EBML-ELEMENT-VALID-PARENT - All elements must have valid parents.
+[4](4.md) MKV-ELEMENT-VALID-PARENT - All elements must have valid parents.
 
 [5](5.md) EBML-ELEMENT-NONMULTIPLES - Elements must follow maxOccurs.
 
@@ -21,7 +21,7 @@
 
 [10](10.md) EBML-ELEMENTS-WITHIN-MAXIDLENGTH - Elements in element ID length range (Deprecated).
 
-[11](11.md) EBML-HEADER-ELEMENTS-WITHIN-MAXIDLENGTH - Header Elements in element data size length range.
+[11](11.md) EBML-HEADER-ELEMENTS-WITHIN-MAXSIZELENGTH - Header Elements in element data size length range.
 
 [12](12.md) EBML-ELEMENTS-WITHIN-MAXSIZELENGTH - Elements in element data size length range.
 
@@ -51,7 +51,7 @@
 
 [25](25.md) EBML-MAXVER-COHERANT - EBML elements used correlate to DocVersion.
 
-[26](26.md) EBML-DOCTYPEREADVERSION-COHERANT - EBML elements used correlate to DocTypeReadVersion.
+[26](26.md) MKV-DOCTYPEREADVERSION-COHERANT - EBML elements used correlate to DocTypeReadVersion.
 
 [27](27.md) MKV-SEGMENT-UID-LENGTH - Matroska segment element must use a valid length (Deprecated).
 
@@ -63,7 +63,7 @@
 
 [31](31.md) MKV-VALID-BOOLEANS - Matroska boolean elements validity (Deprecated).
 
-[32](32.md) MKV-NUMERICAL-TAGS - Matroska tags defined as numerical should be.
+[32](32.md) MKV-NUMERICAL-TAG - Matroska tag defined as numerical should be.
 
 [33](33.md) FFV1-HEADER-version-OUTOFBAND - Version 3 must have out of band data.
 
@@ -87,9 +87,9 @@
 
 [43](43.md) FFV1-HEADER-FFV1-HEADER-quant_table_count - quant_table_count coherency.
 
-[44](44.md) FFV1-HEADER-v_chroma_subsample-int - (Deprecated).
+[44](44.md) FFV1-HEADER-QuantizationTable-len - Quantization table len coherency.
 
-[45](45.md) FFV1-HEADER-QUANTIZATION_TABLES - Quantization tables coherency.
+[45](45.md) FFV1-HEADER-QuantizationTable-scale - Quantization table scale coherency.
 
 [46](46.md) FFV1-HEADER-initial_state_delta - initial_state_delta coherency.
 
@@ -137,7 +137,7 @@
 
 [68](68.md) FFV1-FRAME-key_frame-ISNOTINTRA - key_frame coherency.
 
-[69](69.md) EBML-NO-JUNK-IN-FIXEDSIZE - No junk bytes if the size of an element is fixed.
+[69](69.md) EBML-NO-JUNK-IN-FIXEDSIZE-ELEMENT - No junk bytes if the size of an element is fixed.
 
 # Reproducibility
 
