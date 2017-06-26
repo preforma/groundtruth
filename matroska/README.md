@@ -99,7 +99,7 @@
 
 [49](49.md) FFV1-HEADER-configuration_record_crc_parity - Header CRC must contain a valid hash.
 
-[50](50.md) FFV1-HEADER-END
+[50](50.md) FFV1-HEADER-END - Header must be complete.
 
 [51](51.md) FFV1-SLICE-slice_xywh - Slice position and size must be contained in the slices array.
 
@@ -111,7 +111,7 @@
 
 [55](55.md) FFV1-SLICE-slice_size - slice_size coherency.
 
-[56](56.md) FFV1-SLICE-crc_parity - (Deprecated).
+[56](56.md) FFV1-SLICE-NOJUNK - No junk at the end of the slice.
 
 [57](57.md) FFV1-SLICE-slice_crc_parity - Slice CRC must contain a valid hash.
 
