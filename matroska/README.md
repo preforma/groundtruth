@@ -121,7 +121,7 @@
 
 [60](60.md) PCM-IS-VALID - (Deprecated).
 
-[61](61.md) MKV-V4+ - Matroska version 4 or greater.
+[61](61.md) MKV-V4 - Matroska version 4.
 
 [62](62.md) MKV-SEGMENTUID-PRESENT - SegmentUID presence.
 
