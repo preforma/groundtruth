@@ -111,7 +111,7 @@
 
 [55](55.md) FFV1-SLICE-slice_size - slice_size coherency.
 
-[56](56.md) FFV1-SLICE-NOJUNK - No junk at the end of the slice.
+[56](56.md) FFV1-SLICE-JUNK - No junk at the end of the slice.
 
 [57](57.md) FFV1-SLICE-slice_crc_parity - Slice CRC must contain a valid hash.
 
